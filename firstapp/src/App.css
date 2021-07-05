@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  
+  color: black;
+  height: max-content;
+}
+
+.Navbar {
+  color: rgb(16, 20, 105);
+  padding: 3px;
+  background: rgb(137, 227, 243);
+  text-justify: auto;
+}
+.Input {
+  border: 1px;
+  border-radius: 4px;
+  width: 576px;
+  margin: 20px auto;
+  background-color: rgb(228, 248, 250);
+}
+.Input_header {
+  background-color: cadetblue;
+  border-bottom: coral;
+  border-radius: 2px 2px 0 0;
+  margin: 0;
+  padding: 3px;
+}
+.Input_field {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  font-size: 20px;
+  background-color: darksalmon;
+  border: none;
+}
+.Input_field:focus {
+  outline: none;
+}
+.Weblogo {
+  width: 35px;
+  height: 35px;
+}
+.Loginform {
+  width: 576px;
+  
+  margin: 20px auto;
+  background: cornsilk;
+  
+}
+.login_header{
+  text-align: center;
+  
+}
